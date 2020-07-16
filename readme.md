@@ -12,13 +12,13 @@ That is to say, researchers only want to find the desired indicator in the simpl
 
 For the time being, only undirected and unweighted networks are supported
 
-* Adjacency matrix convert to Adjacency list
-* Adjacency list convert to Adjacency matrix
-* Degree
-* Clustering coefficient
-* Average path length
-* Network efficiency
-* Deliberately attack 
+- [x] Adjacency matrix convert to Adjacency list
+- [x] Adjacency list convert to Adjacency matrix
+- [x] Degree
+- [x] Clustering coefficient
+- [x] Average path length
+- [x] Network efficiency
+- [x] Deliberately attack 
 
 ## Getting Started
 
@@ -27,8 +27,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * JDK(JRE)
+
 * Network Data :Adjacency matrix
   or Adjacency list in a Excel(.xlsx) file
+  
+* The Jar to read Excel：
+
+  Maven 
 
 ### Installing
 
